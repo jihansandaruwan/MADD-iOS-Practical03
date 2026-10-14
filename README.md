@@ -2,8 +2,8 @@
 ### Practical 03 – Functions, Enums, Structs & Classes in Swift
 
 ### Student Information
-- **Student ID:** IT22177100
-- **Student Name:** Mendis B.M.U.I
+- **Student ID:** IT22294548
+- **Student Name:** Sandaruwan W J
 - **Degree:** BSc (Hons) in Information Technology / Interactive Media
 - **Year / Semester:** Year 04 Semester 02 - 2026
 
